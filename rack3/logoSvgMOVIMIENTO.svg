@@ -9,6 +9,7 @@
     /* ----- @import url("svgRackColoresFull.css"); ----- */
 	
 	.fndRackFull{fill-rule:evenodd;clip-rule:evenodd;fill:#fff;overflow: hidden;}
+	
 
 	.viga21,.viga23,.viga45,.viga55,.viga83,.viga92,.viga91,.viga33,.viga32,.viga81,.viga34,.rienda7,.viga72,.viga71,.viga31,.viga44,.viga43,.viga42,.viga41,.viga54,.viga53,.viga52,.viga51,.viga102,.vigaIn3,.piso1,.viga65,.protector22,.piso2,.protector23,.protector21,.piso3,.pata43,.pata23,.pata33,.viga12,.protector11,.protector13,.pata42,.pata22,.viga62,.pata32,.viga11,.protector12,.pata41,.pata21,.viga61,.pata31,.pata44,.pata24,.viga63,.rienda5,.pata34,.viga13,.rienda4,.rienda6,.rienda3,.rienda2,.rienda1,.viga122,.viga121,.vigaIn1,.viga101,.pata45,.viga64,.protector31,.protector32,.protector33,.viga112,.vigaIn2,.viga111,.viga14,.viga35,.viga22,.pata65,.pata64,.pata63,.pata62,.pata61,.pata55,.pata54,.pata14,.pata53,.pata13,.pata52,.pata12,.pata51,.pata11,.viga24{
     fill-rule:evenodd;clip-rule:evenodd;
@@ -263,8 +264,11 @@
 		visibility: hidden;
 		animation: color 1s forwards calc(var(--timeDet) + 2s);
 	}
-	.pnt12FndTxt:hover{
-		fill: #ccc;
+	.mask12{
+		fill: transparent;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 2s);
 	}
 	.pnt12Txt{fill:var(--txtDet);opacity:0;
 		visibility: hidden;
@@ -288,8 +292,11 @@
 		visibility: hidden;
 		animation: color 1s forwards calc(var(--timeDet) + 5s);
 	}
-	.pnt3FndTxt:hover{
-		fill: #ccc;
+	.mask3{
+		fill: transparent;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 5s);		
 	}
 	.pnt3Txt{fill:var(--txtDet);opacity:0;
 		visibility: hidden;
@@ -318,13 +325,15 @@
 		animation: color 1s forwards calc(var(--timeDet) + 10s);
 	}
 	.pntProFndTxt{fill:var(--fndTxt);opacity:0;
-		cursor:pointer;
 		visibility: hidden;
 		animation: color 1s forwards calc(var(--timeDet) + 11s);
 	}
-	.pntProFndTxt:hover{
-		fill: #ccc;
-	}
+	.maskPro{
+		fill: transparent;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 11s);
+	}	
 	.pntProTxt{fill:var(--txtDet);opacity:0;
 		visibility: hidden;
 		animation: color 1s forwards calc(var(--timeDet) + 11s);
@@ -347,8 +356,11 @@
 		visibility: hidden;
 		animation: color 1s forwards calc(var(--timeDet) + 14s);
 	}
-	.pntPisoFndTxt:hover{
-		fill: #ccc;
+	.maskPiso{
+		fill: transparent;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 14s);
 	}
 	.pntPisoTxt{fill:var(--txtDet);opacity:0;
 		visibility: hidden;
@@ -367,15 +379,17 @@
 		fill:none;stroke:var(--lineDetColor);stroke-width:var(--lineDetTamanio);opacity:0;
 		stroke-dasharray:70px;
 		animation: pntRienLine 1s forwards calc(var(--timeDet) + 16s);
-		
 	}
 	.pntRienFndTxt{fill:var(--fndTxt);opacity:0;
 		cursor:pointer;
 		visibility: hidden;
 		animation: color 1s forwards calc(var(--timeDet) + 17s);
 	}
-	.pntRienFndTxt:hover{
-		fill: #ccc;
+	.maskRiendas{
+		fill: transparent;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 17s);
 	}
 	.pntRienTxt{fill:var(--txtDet);opacity:0;
 		visibility: hidden;
@@ -387,12 +401,18 @@
 		animation: pntRiendas 1s forwards calc(var(--timeDet) + 15s),
 					pntRiendas2 1s forwards calc(var(--timeDet) + 17s);
 	}
-	
+
+
+
+
+
+
+
 
 	:root{
     	--line:0.2;
     	--lineColor: #000000;
-		--swipeTime: 30s;
+		--swipeTime: 27s;
 	}
 	.swipeCirculo, .swipeManoLineadedo, .swipeManoLinea, .swipeManoLineaClick{
 		fill:none;stroke-width:var(--line);stroke:var(--lineColor);opacity:0;
@@ -401,24 +421,27 @@
 		opacity: 0;
 		transform-origin: 300px 156px;
 		transform: scale(1.5);
-		animation: circulo 1s forwards calc(var(--swipeTime) + 1s) 4;
+		animation: circulo 1s forwards calc(var(--swipeTime) + 1s);
 	}
 	.swipeManoLineadedo{		
 		stroke-width:calc(var(--line));
 	}
 	.swipeManoLineadedo, .swipeManoLinea {opacity:0;transform:translateY(0px);
 		transform:translate(14px, 19px);
-		animation: mano 1s forwards calc(var(--swipeTime) + 0s);
+		animation: mano 1s forwards calc(var(--swipeTime) + 0s),
+					noColor 1s forwards calc(var(--swipeTime) + 6s);
 	}
 	.swipeManoColor,.swipeManoLineaClick{
 		transform:translate(14px, 19px);
 		fill-rule:evenodd;clip-rule:evenodd;fill: #fff;opacity:0;
 		transform-origin: 309px 171px;
-		animation: mano 1s forwards calc(var(--swipeTime) + 0s);
+		animation: mano 1s forwards calc(var(--swipeTime) + 0s),
+					noColor 1s forwards calc(var(--swipeTime) + 6s);
 	}
 	.swipeManoLineaClick{		
 		animation: mano1 1s forwards calc(var(--swipeTime) + 0s),
-					dedo 1s forwards calc(var(--swipeTime) + 1s) 4;
+					dedo 1s forwards calc(var(--swipeTime) + 1s) 4,
+					noColor 1s forwards calc(var(--swipeTime) + 6s);
 	}
 
 
@@ -2079,5 +2102,20 @@
 <path class="swipeManoLinea" d="M303.9,161.9l1.3,2.9c-0.7-1.7,1.3-2.4,2-0.9l0.5,1.2c-0.7-1.6,1.4-2.3,2-0.9l0.8,1.9c-0.6-1.4,1.4-2,1.9-0.8
 	l2.5,5.5l0.8,4.6c-1.8,1.9-4.1,3-6.9,3.1l-2.4-2.5l-4-5.4c-0.9-1.3,0.4-2.3,1.7-1.8l-2.6-5.9"/>
 <path class="swipeManoLineaClick" d="M301.5,162.9l-1-2.2c-0.7-1.5,1.8-2.5,2.4-1.1l1,2.2"/>
+
+
+
+<path class="mask12" d="M299.8,80.1L299.8,80.1c3.3,0,6,2.7,6,6v151c0,3.3-2.7,6-6,6c-3.3,0-6-2.7-6-6v-151
+		C293.8,82.8,296.5,80.1,299.8,80.1"/>
+<path class="mask3" d="M161.5,31.5L160,20.7c-0.3-2.6,1.5-5,4.1-5.3l41-5.5c2.6-0.4,5,1.5,5.3,4.1l1.5,10.8c0.3,2.6-1.5,5-4.1,5.3
+	l-41,5.5C164.2,35.9,161.8,34.1,161.5,31.5"/>
+<path class="maskPro" d="M58.9,286.1L58.9,286.1c0.4-3.3,3.4-5.6,6.7-5.3l90.3,10.7c3.3,0.4,5.6,3.4,5.2,6.7c-0.4,3.3-3.4,5.6-6.7,5.3
+		l-90.3-10.7C60.9,292.3,58.5,289.3,58.9,286.1"/>
+<path class="maskPiso" d="M13,49.9V36.6c0-3.2,2.6-5.8,5.8-5.8H58c3.2,0,5.8,2.6,5.8,5.8v13.3c0,3.2-2.6,5.8-5.8,5.8H18.8
+		C15.6,55.8,13,53.1,13,49.9"/>
+<path class="maskRiendas" d="M209,314.7L209,314.7c0-3.3,2.7-6,6-6h91c3.3,0,6,2.7,6,6s-2.7,6-6,6h-91C211.7,320.7,209,318,209,314.7"/>
+
+
+
 
 </svg>
