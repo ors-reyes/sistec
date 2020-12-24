@@ -1,0 +1,529 @@
+.fndRackFull{fill-rule:evenodd;clip-rule:evenodd;fill: #fff;;overflow: hidden;}
+
+.viga21,.viga23,.viga45,.viga55,.viga83,.viga92,.viga91,.viga33,.viga32,.viga81,.viga34,.rienda7,.viga72,.viga71,.viga31,.viga44,.viga43,.viga42,.viga41,.viga54,.viga53,.viga52,.viga51,.viga102,.vigaIn3,.piso1,.viga65,.protector22,.piso2,.protector23,.protector21,.piso3,.pata43,.pata23,.pata33,.viga12,.protector11,.protector13,.pata42,.pata22,.viga62,.pata32,.viga11,.protector12,.pata41,.pata21,.viga61,.pata31,.pata44,.pata24,.viga63,.rienda5,.pata34,.viga13,.rienda4,.rienda6,.rienda3,.rienda2,.rienda1,.viga122,.viga121,.vigaIn1,.viga101,.pata45,.viga64,.protector31,.protector32,.protector33,.viga112,.vigaIn2,.viga111,.viga14,.viga35,.viga22,.pata65,.pata64,.pata63,.pata62,.pata61,.pata55,.pata54,.pata14,.pata53,.pata13,.pata52,.pata12,.pata51,.pata11,.viga24{
+    fill-rule:evenodd;clip-rule:evenodd;
+	}
+	.pata11{fill:url(#azul01);}
+	.pata12{fill:url(#azul101);}
+	.pata13{fill:url(#azul01);}
+	.pata14{fill:url(#azul01);}
+
+	.pata21{fill:url(#azul01);}
+	.pata22{fill:url(#azul101);}
+	.pata23{fill:url(#azul01);}
+	.pata24{fill:url(#azul01);}
+
+	.pata31{fill:url(#azul01);}	
+	.pata32{fill:url(#azul101);}	
+	.pata33{fill:url(#azul01);}	
+	.pata34{fill:url(#azul01);}
+
+	.pata41{fill:url(#azul01);}
+	.pata42{fill:url(#azul01);}
+	.pata43{fill:url(#azul101);}	
+	.pata44{fill:url(#azul01);}	
+	.pata45{fill:url(#azul01);}
+
+	.pata51{fill:url(#azul01);}
+	.pata52{fill:url(#azul01);}
+	.pata53{fill:url(#azul101);}
+	.pata54{fill:url(#azul01);}
+	.pata55{fill:url(#azul01);}
+
+	.pata61{fill:url(#azul01);}
+	.pata62{fill:url(#azul01);}
+	.pata63{fill:url(#azul101);}
+	.pata64{fill:url(#azul01);}
+	.pata65{fill:url(#azul01);}
+
+	.protector11{fill:url(#amarillo10);}
+	.protector12{fill:url(#amarillo10);}
+	.protector13{fill:url(#amarillo01);}
+
+	.protector21{fill:url(#amarillo10);}
+	.protector22{fill:url(#amarillo10);}
+	.protector23{fill:url(#amarillo01);}
+
+	.protector31{fill:url(#amarillo10);}
+	.protector32{fill:url(#amarillo10);}
+	.protector33{fill:url(#amarillo01);}
+
+	.rienda1{fill:url(#gris10);}
+	.rienda2{fill:url(#gris10);}
+	.rienda3{fill:url(#gris10);}
+	.rienda4{fill:url(#gris10);}
+	.rienda5{fill:url(#gris10);}
+	.rienda6{fill:url(#gris10);}
+	.rienda7{fill:url(#gris10);}
+
+	.piso1{fill:grey;}
+	.piso2{fill:grey;}
+	.piso3{fill:grey;}
+
+	.viga11{fill:url(#naranja10b);}
+	.viga12{fill:url(#naranja10);}
+	.viga13{fill:url(#naranja10);}
+	.viga14{fill:url(#naranja10b);}
+	
+	.viga21{fill:url(#naranja10b);}
+	.viga22{fill:url(#naranja10);}
+	.viga23{fill:url(#naranja10);}
+	.viga24{fill:url(#naranja10b);}
+
+	.viga31{fill:url(#naranja10b);}
+	.viga32{fill:url(#naranja10);}
+	.viga33{fill:url(#naranja10);}
+	.viga34{fill:url(#naranja10b);}
+	.viga35{fill:#AA4400;}
+
+	.viga41{fill:url(#naranja10b);}
+	.viga42{fill:url(#naranja10);}
+	.viga43{fill:url(#naranja10);}
+	.viga44{fill:url(#naranja10b);}
+	.viga45{fill:#AA4400;}
+
+	.viga51{fill:url(#naranja10b);}
+	.viga52{fill:url(#naranja10);}
+	.viga53{fill:url(#naranja10);}
+	.viga54{fill:url(#naranja10b);}
+	.viga55{fill:#AA4400;}
+
+	.viga61{fill:url(#naranja10b);}
+	.viga62{fill:url(#naranja10);}
+	.viga63{fill:url(#naranja10);}
+	.viga64{fill:url(#naranja10b);}
+	.viga65{fill:#AA4400;}
+
+	.viga71{fill:url(#naranja10b);}
+	.viga72{fill:url(#naranja10);}
+
+	.viga81{fill:url(#naranja10b);}
+	.viga83{fill:url(#naranja10);}
+
+	.viga91{fill:url(#naranja10b);}
+	.viga92{fill:url(#naranja10);}
+
+	.viga101{fill:url(#naranja10b);}
+	.viga102{fill:url(#naranja10);}
+
+	.viga111{fill:url(#naranja10b);}
+	.viga112{fill:url(#naranja10);}
+
+	.viga121{fill:url(#naranja10b);}
+	.viga122{fill:url(#naranja10);}
+
+	.vigaIn1{fill:#AA4400;}
+	.vigaIn2{fill:#AA4400;}
+	.vigaIn3{fill:#AA4400;}
+
+    :root{
+    --timeIni: 1s;
+}
+@keyframes translateY{0%{transform: translateY(-3000px);}100%{transform: translateY(0px);}}
+@keyframes translateX{0%{transform: translateX(-3000px);}100%{transform: translateX(0px);}}
+
+                /* ----- patas ----- */
+.pata61,.pata62,.pata63,.pata64,.pata65{
+    transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 0s);
+}
+.pata51,.pata52,.pata53,.pata54,.pata55{
+    transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 0.5s);
+}
+.pata41,.pata42,.pata43,.pata44,.pata45{
+    transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 1s);
+}
+.pata11,.pata12,.pata13,.pata14{
+    transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 1.5s);
+}
+.pata21,.pata22,.pata23,.pata24{
+    transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 2s);
+}
+.pata31,.pata32,.pata33,.pata34{
+    transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 2.5s);
+}
+                /* ----- Fin Patas ----- */
+
+                /* ----- rienadas ----- */
+.rienda1{transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 3s);
+}
+.rienda2{transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 3.2s);
+}
+.rienda3{transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 3.4s);
+}
+.rienda4{transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 3.6s);
+}
+.rienda5{transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 3.8s);
+}
+.rienda6{transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 4s);
+}
+.rienda7{transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 4.2s);
+}
+                /* ----- Fin Rienadas ----- */
+
+                /* ----- viga ----- */
+.viga11,.viga12,.viga13,.viga14,.viga21,.viga22,.viga23,.viga24,.viga71,.viga72,.viga81,.viga83,.vigaIn3{
+    transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 4.4s);
+}          
+.viga31,.viga32,.viga33,.viga34,.viga35,.viga41,.viga42,.viga43,.viga44,.viga45,.viga91,.viga92,.viga101,.viga102,.vigaIn2{
+    transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 4.6s);
+}
+.viga51,.viga52,.viga53,.viga54,.viga55,.viga61,.viga62,.viga63,.viga64,.viga65,.viga111,.viga112,.viga121,.viga122,.vigaIn1{
+    transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 4.8s);    
+}
+                /* ----- Fin viga ----- */
+
+                /* ----- Piso ----- */
+.piso1,.piso2,.piso3{
+    transform: translateY(-3000px);
+    animation: translateY 1s forwards calc(var(--timeIni) + 5.2s);
+}
+                /* ----- Fin Piso ----- */
+
+                /* ----- Protector ----- */
+.protector11,.protector12,.protector13{
+    transform: translateX(-3000px);
+    animation: translateX 1s forwards calc(var(--timeIni) + 6.8s);
+}
+.protector21,.protector22,.protector23{
+    transform: translateX(-3000px);
+    animation: translateX 1s forwards calc(var(--timeIni) + 6.4s);
+}
+.protector31,.protector32,.protector33{
+    transform: translateX(-3000px);
+    animation: translateX 1s forwards calc(var(--timeIni) + 6s);
+}
+                /* ----- Fin Protector ----- */
+
+
+
+
+
+    :root{
+		--timeDet: 9s;
+		--pntDetOut: #000;
+		--pntDetIn: #fff;
+		--lineDetTamanio: 0.5;
+		--lineDetColor: #000;
+		--lineResalte: #f0f;
+		--fndTxt: #eee;
+		--txtDet: #000;
+	}
+	@keyframes color{0%{opacity:0;visibility: visible;}100%{opacity:1;visibility: visible;}}
+
+	@keyframes pnt12Line{0%{stroke-dashoffset:40px;opacity:1;}100%{stroke-dashoffset:0px;opacity:1;}}
+	@keyframes pnt3Viga{0%{stroke-dashoffset:230px;opacity:1;}100%{stroke-dashoffset:0px;opacity:1;}}
+	@keyframes pnt3Viga2{0%{stroke-dashoffset:0px;opacity:1;}100%{stroke-dashoffset:230px;opacity:0;}}
+	@keyframes pntProLine1{0%{stroke-dashoffset:180px;opacity:1;}100%{stroke-dashoffset:0px;opacity:1;}}
+	@keyframes pntProLine2{0%{stroke-dashoffset:35px;opacity:1;}100%{stroke-dashoffset:0px;opacity:1;}}
+	@keyframes pntPisoLine{0%{stroke-dashoffset:160px;opacity:1;}100%{stroke-dashoffset:0px;opacity:1;}}
+	@keyframes pntRiendas{0%{stroke-dashoffset:80px;opacity:1;}100%{stroke-dashoffset:0px;opacity:1;}}
+	@keyframes pntRiendas2{0%{stroke-dashoffset:0px;opacity:1;}100%{stroke-dashoffset:80px;opacity:0;}}
+	@keyframes pntRienLine{0%{stroke-dashoffset:70px;opacity:1;}100%{stroke-dashoffset:0px;opacity:1;}}
+
+	.pnt12Out{fill:var(--pntDetOut);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 0s);
+	}
+	.pnt12In{fill:var(--pntDetIn);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 0s);
+	}
+	.pnt12Line{fill:none;stroke:var(--lineDetColor);stroke-width:var(--lineDetTamanio);opacity:0;
+		stroke-dasharray:40px;
+		animation: pnt12Line 1s forwards calc(var(--timeDet) + 1s);
+	}
+	.pnt12FndTxt{fill:var(--fndTxt);opacity:0;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 2s);
+	}
+	.mask12{
+		fill: transparent;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 2s);
+	}
+	.pnt12Txt{fill:var(--txtDet);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 2s);
+	}
+	
+	.pnt3Out{fill:var(--pntDetOut);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 3s);
+	}    
+	.pnt3In{fill:var(--pntDetIn);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 3s);
+	}
+	.pnt3Line{fill:none;stroke:var(--lineDetColor);stroke-width:var(--lineDetTamanio);opacity:0;
+		stroke-dasharray:40px;
+		animation: pnt12Line 1s forwards calc(var(--timeDet) + 4s);
+	}
+	.pnt3FndTxt{fill:var(--fndTxt);opacity:0;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 5s);
+	}
+	.mask3{
+		fill: transparent;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 5s);		
+	}
+	.pnt3Txt{fill:var(--txtDet);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 5s);
+	}
+	.pnt3Viga{fill:none;stroke:var(--lineResalte);stroke-width:calc(var(--lineDetTamanio) + 0.5);opacity:0;
+		stroke-dasharray:230px;
+		animation: pnt3Viga 1s forwards calc(var(--timeDet) + 6s),
+					pnt3Viga2 1s forwards calc(var(--timeDet) + 8s);
+	}
+	
+	.pntProLine1{fill:none;stroke:var(--lineDetColor);stroke-width:var(--lineDetTamanio);opacity:0;
+		stroke-dasharray:180px;
+		animation: pntProLine1 1s forwards calc(var(--timeDet) + 9s);
+	}
+	.pntProLine2{fill:none;stroke:var(--lineDetColor);stroke-width:var(--lineDetTamanio);opacity:0;
+		stroke-dasharray:35px;
+		animation: pntProLine2 1s forwards calc(var(--timeDet) + 9s);
+	}
+	.pntProOut{fill:var(--pntDetOut);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 10s);
+	}
+	.pntProIn{fill:var(--pntDetIn);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 10s);
+	}
+	.pntProFndTxt{fill:var(--fndTxt);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 11s);
+	}
+	.maskPro{
+		fill: transparent;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 11s);
+	}	
+	.pntProTxt{fill:var(--txtDet);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 11s);
+	}
+
+	.pntPisoOut{fill:var(--pntDetOut);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 12s);
+	}
+	.pntPisoIn{fill:var(--pntDetIn);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 12s);
+	}
+	.pntPisoLine{fill:none;stroke:var(--lineDetColor);stroke-width:var(--lineDetTamanio);opacity:0;
+		stroke-dasharray:160px;
+		animation: pntPisoLine 1s forwards calc(var(--timeDet) + 13s);
+	}
+	.pntPisoFndTxt{fill:var(--fndTxt);opacity:0;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 14s);
+	}
+	.maskPiso{
+		fill: transparent;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 14s);
+	}
+	.pntPisoTxt{fill:var(--txtDet);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 14s);
+	}
+
+	.pntRienOut{fill:var(--pntDetOut);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 15s);
+	}
+	.pntRienIn{fill:var(--pntDetIn);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 15s);
+	}
+	.pntRienLine{
+		fill:none;stroke:var(--lineDetColor);stroke-width:var(--lineDetTamanio);opacity:0;
+		stroke-dasharray:70px;
+		animation: pntRienLine 1s forwards calc(var(--timeDet) + 16s);
+	}
+	.pntRienFndTxt{fill:var(--fndTxt);opacity:0;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 17s);
+	}
+	.maskRiendas{
+		fill: transparent;
+		cursor:pointer;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 17s);
+	}
+	.pntRienTxt{fill:var(--txtDet);opacity:0;
+		visibility: hidden;
+		animation: color 1s forwards calc(var(--timeDet) + 17s);
+	}
+
+	.pntRiendas{fill:none;stroke:var(--lineResalte);stroke-width:calc(var(--lineDetTamanio) + 0.5);opacity:0;
+		stroke-dasharray:80px;
+		animation: pntRiendas 1s forwards calc(var(--timeDet) + 15s),
+					pntRiendas2 1s forwards calc(var(--timeDet) + 17s);
+	}
+
+
+
+
+
+
+
+
+	:root{
+    	--line:0.2;
+    	--lineColor: #000000;
+		--swipeTime: 27s;
+	}
+	.swipeCirculo, .swipeManoLineadedo, .swipeManoLinea, .swipeManoLineaClick{
+		fill:none;stroke-width:var(--line);stroke:var(--lineColor);opacity:0;
+	}
+	.swipeCirculo{
+		opacity: 0;
+		transform-origin: 300px 156px;
+		transform: scale(1.5);
+        animation: circulo 1s forwards calc(var(--swipeTime) + 1s);
+	}
+	.swipeManoLineadedo{
+		stroke-width:calc(var(--line));
+	}
+	.swipeManoLineadedo, .swipeManoLinea {opacity:0;transform:translateY(0px);
+		transform:translate(14px, 19px);
+		animation: mano 1s forwards calc(var(--swipeTime) + 0s),
+					noColor 1s forwards calc(var(--swipeTime) + 6s);
+	}
+	.swipeManoColor,.swipeManoLineaClick{
+		transform:translate(14px, 19px);
+		fill-rule:evenodd;clip-rule:evenodd;fill: #fff;opacity:0;
+		transform-origin: 309px 171px;
+		animation: mano 1s forwards calc(var(--swipeTime) + 0s),
+					noColor 1s forwards calc(var(--swipeTime) + 6s);
+	}
+	.swipeManoLineaClick{		
+		animation: mano1 1s forwards calc(var(--swipeTime) + 0s),
+					dedo 1s forwards calc(var(--swipeTime) + 1s) 4,
+					noColor 1s forwards calc(var(--swipeTime) + 6s);
+	}
+
+
+	@keyframes noColor{0%{opacity: 1;}100%{opacity: 0;}}
+	@keyframes mano{
+		0%{transform:translate(14px, 19px);opacity: 1;}
+		100%{transform:translate(0);opacity: 1;}
+	}
+	@keyframes dedo{
+		0%{transform:translate(0px);opacity: 1;}
+		5%{transform:translate(1px, 2px);opacity: 1;}
+		100%{transform:translateY(0px);opacity: 1;}
+	}	
+	@keyframes circulo{
+		0%{transform: scale(3.5);opacity: 1;}
+		25%{transform: scale(3.5);opacity: 1;}
+		50%{transform: scale(0);opacity: 1;}
+		75%{transform: scale(3.5);opacity: 1;}
+		100%{transform: scale(3.5);opacity: 0;}
+	}
+
+
+
+
+
+
+
+
+	.mask12Slide,.mask3Slide,.maskProSlide,.maskPisoSlide,.maskRiendasSlide,.slideLogo{
+		visibility: hidden;transform-origin: 166px 386px;
+	}
+	.slideLogo{fill:#FF00FF;visibility: visible;opacity: 0; cursor: pointer;}
+	
+	.mask12Slide{
+		fill:#FF0000;visibility: visible;
+        transform:translateX(3000px);
+        transition: all 0.5s;
+	}
+	.mask3Slide{
+		fill:#FFFF00;visibility: visible;
+        transform:translateX(3000px);
+        transition: all 0.5s;
+	}
+	.maskProSlide{
+		fill:#00FF00;visibility: visible;
+        transform:translateX(3000px);
+        transition: all 0.5s;
+	}
+	.maskPisoSlide{
+		fill:#00FFFF;visibility: visible;
+        transform:translateX(3000px);
+        transition: all 0.5s;
+	}
+	.maskRiendasSlide{
+		fill:#0000FF;visibility: visible;
+        transform:translateX(3000px);
+        transition: all 0.5s;
+	}
+
+
+
+	.btnActivo{
+        fill: #cccccc;
+        transition: all 0.5s;
+    }
+    .slideRackActivo{
+        transform: translateX(0px);
+        
+    }
+
+/*  ---------- LOGO --------- */
+:root{
+    --timeLogo: 0s;
+}
+.logoMobsc,.logoTxt,.logoMclaro,.logoSombra{fill-rule:evenodd;clip-rule:evenodd;opacity:0;}
+.logoMobsc{fill:#808080;}
+.logoMclaro{fill:#CCCCCC;}
+.logoTxtLine{fill:none;stroke-width:0.3;stroke:#000;opacity:0;stroke-dasharray:100px;
+    animation: dasharray 1s forwards calc(var(--timeLogo) + 0s);
+}
+.logoSombra{fill:#FFFFFF;
+    animation: colorLogo 1s forwards calc(var(--timeLogo) + 0s);
+}
+.logoTxt{fill:#000000;opacity:0;
+    animation: colorLogo 0.5s forwards calc(var(--timeLogo) + 1s);
+}	
+.logoMobsc,.logoMclaro{transform-origin: 166px 386px;		
+    animation: giro 0.5s forwards calc(var(--timeLogo) + 1.5s);
+}
+@keyframes giro{0%{opacity:0;transform: rotate3d(1, 2, -1, 0deg);}100%{opacity:1;transform: rotate3d(1, 2, -1, 360deg);}}
+@keyframes dasharray{0%{stroke-dashoffset:100px;opacity:1;}100%{stroke-dashoffset:0px;opacity:1;}}
+@keyframes colorLogo{0%{opacity:0;}100%{opacity:1;}}
+
+.slideLogoAct{
+    visibility: hidden;
+}
