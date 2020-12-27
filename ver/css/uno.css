@@ -1,0 +1,98 @@
+.contentUno{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: grid;
+    grid: 
+    "imgSl" 60vh
+    "icons" 40vh / 
+    100vw;
+}
+.imgSl{
+    grid-area: imgSl;
+    display: grid;
+    grid: 
+    "."         5%
+    "logo"      35%
+    "."         20%
+    "presTxt"   40% / 
+    100vw;
+    background: url(../img/index1.jpg);
+    background-size: cover;
+    background-position: right;
+}
+.logo{
+    grid-area: logo;
+    background: rgba(0,255,0,0.5);
+    background: url(../img/logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+.presTxt{
+    grid-area: presTxt;
+    padding: 15px;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #000000;
+}
+.icons{
+    grid-area: icons;
+    display: grid;
+    grid:
+    "rackIcon gondolasIcon exhibidorIcon"
+    "casilleroIcon cajafuerteIcon retailIcon"
+    "ficheroIcon estructurasIcon cabinasIcon"
+    ;
+}
+.rackIcon{
+    grid-area: rackIcon;
+    background: url(../img/iconRack.svg);
+}
+.gondolasIcon{
+    grid-area: gondolasIcon;
+    background: url(../img/iconGondolas.svg);
+}
+.exhibidorIcon{
+    grid-area: exhibidorIcon;
+    background: url(../img/iconExhibidores.svg);
+}
+.casilleroIcon{
+    grid-area: casilleroIcon;
+    background: url(../img/iconCasillero.svg);
+}
+.cajafuerteIcon{
+    grid-area: cajafuerteIcon;
+    background: url(../img/iconCajaFuerte.svg);
+}
+.retailIcon{
+    grid-area: retailIcon;
+    background: url(../img/iconRetail.svg);
+}
+.ficheroIcon{
+    grid-area: ficheroIcon;
+    background: url(../img/iconFichero.svg);
+}
+.estructurasIcon{
+    grid-area: estructurasIcon;
+    background: url(../img/iconEstructuras.svg);
+}
+.cabinasIcon{
+    grid-area: cabinasIcon;
+    background: url(../img/iconCabinas.svg);
+}
+.rackIcon,.gondolasIcon,.exhibidorIcon,.casilleroIcon,.cajafuerteIcon,.retailIcon,.ficheroIcon,.estructurasIcon,.cabinasIcon{
+    border: solid 1px gray;
+    display: grid;
+    grid: 
+    "icon"  70%
+    "txt"   30%
+    ;
+    font-size: 0.6em;
+    padding: 5px;
+    background-size: 40%;
+    background-position: 50% 10%;
+    background-repeat: no-repeat;
+}
+.rackIcon:hover,.gondolasIcon:hover,.exhibidorIcon:hover,.casilleroIcon:hover,.cajafuerteIcon:hover,.retailIcon:hover,.ficheroIcon:hover,.estructurasIcon:hover,.cabinasIcon:hover{
+    background-color: #eeeeee;
+}
